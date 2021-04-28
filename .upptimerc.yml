@@ -1,0 +1,22 @@
+owner: kotatsuclub
+repo: status
+
+assignees:
+  - shawntoffel
+  
+sites:
+  - name: Kotatsu Club
+    url: https://kotatsu.club/robots.txt
+
+status-website:
+  cname: status.kotatsu.club
+  name: Kotatsu Club Status
+  introTitle: Kotatsu Club
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+workflowSchedule:
+  uptime: "0 1 * * *"
