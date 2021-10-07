@@ -4,7 +4,7 @@
     "url": "https://kotatsu.club/robots.txt",
     "icon": "https://favicons.githubusercontent.com/kotatsu.club",
     "slug": "kotatsu-club",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 134,
     "timeYear": 115,
     "dailyMinutesDown": {
+      "2021-10-07": 0,
       "2021-09-01": 5,
       "2021-07-12": 5,
       "2021-06-05": 2
