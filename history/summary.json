@@ -4,19 +4,19 @@
     "url": "https://kotatsu.club/robots.txt",
     "icon": "https://favicons.githubusercontent.com/kotatsu.club",
     "slug": "kotatsu-club",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 157,
-    "timeWeek": 130,
-    "timeMonth": 120,
+    "timeDay": 140,
+    "timeWeek": 127,
+    "timeMonth": 119,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2022-06-15": 0
+      "2022-06-15": 5
     }
   }
 ]
