@@ -6,7 +6,10 @@ assignees:
   
 sites:
   - name: Kotatsu Club
-    url: https://kotatsu.club/robots.txt
+    url: https://kotatsu.club/status
+    expectedStatusCodes:
+      - 200
+      - 403
 
 status-website:
   cname: status.kotatsu.club
