@@ -2,7 +2,7 @@
   {
     "name": "Kotatsu Club",
     "url": "https://kotatsu.club/status",
-    "icon": "https://favicons.githubusercontent.com/kotatsu.club",
+    "icon": "https://icons.duckduckgo.com/ip3/kotatsu.club.ico",
     "slug": "kotatsu-club",
     "status": "up",
     "uptime": "100.00%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 65,
-    "timeWeek": 113,
-    "timeMonth": 201,
+    "timeDay": 122,
+    "timeWeek": 106,
+    "timeMonth": 200,
     "timeYear": 147,
     "dailyMinutesDown": {}
   }
