@@ -4,17 +4,19 @@
     "url": "https://kotatsu.club/status",
     "icon": "https://icons.duckduckgo.com/ip3/kotatsu.club.ico",
     "slug": "kotatsu-club",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 113,
-    "timeWeek": 154,
-    "timeMonth": 221,
-    "timeYear": 216,
-    "dailyMinutesDown": {}
+    "time": 206,
+    "timeDay": 1009,
+    "timeWeek": 373,
+    "timeMonth": 275,
+    "timeYear": 220,
+    "dailyMinutesDown": {
+      "2025-10-02": 0
+    }
   }
 ]
