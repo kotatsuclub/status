@@ -6,14 +6,14 @@
     "slug": "kotatsu-club",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.30%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 749,
-    "timeWeek": 329,
-    "timeMonth": 274,
+    "timeDay": 233,
+    "timeWeek": 337,
+    "timeMonth": 279,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2025-10-02": 10
